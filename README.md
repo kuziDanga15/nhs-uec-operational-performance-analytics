@@ -10,7 +10,7 @@ An executive business intelligence dashboard and dimensional model analyzing ope
 
 ## Executive Dashboard 
 
-![NHS Emergency Care Operational Dashboard](docs/nhs_emergency_care_dashboard.png)
+![NHS Emergency Care Operational Dashboard](Dashboard.png)
 
 ---
 
